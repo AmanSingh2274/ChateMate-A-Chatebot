@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day","hii"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "package",
+      "patterns": [
+        "higest pakage offered",
+        "average package offered",
+        "Minimum package offered"
+      ],
+      "responses": [
+        "The pakage ranges from 5-7lpa",
+        "maximam 7lpa"
+      ]
+    },
+    {
+      "tag": "intership",
+      "patterns": [
+        "Do college offer internship",
+        "internship offered by college",
+        "campus drive",
+        "interenship drive"
+      ],
+      "responses": [
+        "There is no such facilities.Even noc's are also not provided!!",
+        "The student has to work hard and get it by themselves!!"
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "What courses you offered",
+        "Courses you have "
+      ],
+      "responses": [
+        "Btech,MBA,BBA,BPT",
+        "Btech,BPT,MBA,BBA"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    },
+    {
+      "tag": "slang",
+      "patterns": [
+        "Are you mad ",
+        "are you fool"
+      ],
+      "responses": [
+        "please don't talk to me like that","Ja na kaam kar apna"
+      ]
+    },
+    {
+      "tag": "Fees",
+      "patterns": [
+        "What is the courses fees",
+        "Fees of courses"
+      ],
+      "responses": [
+        "The fees of the courses are from 5 to 12 lakh only."
+      ]
+    }
+  ]
+}
