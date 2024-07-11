@@ -12,7 +12,7 @@ ChatMate is a sophisticated chatbot application built using Python. It is design
 
 ### Integration Capabilities: Can be integrated with other systems and platforms through APIs.
 
-Machine Learning: Leverages machine learning models to improve response accuracy and relevance over time.
+### Machine Learning: Leverages machine learning models to improve response accuracy and relevance over time.
 
 ## Screenshort :-
 ![S1](https://github.com/AmanSingh2274/ChateMate-A-Chatebot/assets/148249849/9464a671-7e04-4273-8fe9-df6f2b1cb9ec)
