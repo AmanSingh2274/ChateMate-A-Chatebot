@@ -15,7 +15,7 @@ ChatMate is a sophisticated chatbot application built using Python. It is design
 
 
 
-## Screenshort:---------------
+## Screenshort:--------------
 1.>
 ![S1](https://github.com/AmanSingh2274/ChateMate-A-Chatebot/assets/148249849/9464a671-7e04-4273-8fe9-df6f2b1cb9ec)
 
