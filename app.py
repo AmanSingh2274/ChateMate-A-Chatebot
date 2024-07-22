@@ -22,7 +22,7 @@ class ChatApplication:
         self.window.resizable(width=False, height=False)
         self.window.configure(width=470, height=550, bg=BG_COLOR)
         
-        # head label
+        # head label 
         head_label = Label(self.window, bg=BG_COLOR, fg=TEXT_COLOR,
                            text="Welcome", font=FONT_BOLD, pady=10)
         head_label.place(relwidth=1)
