@@ -1,6 +1,6 @@
 from tkinter import * 
 from chat import get_response, bot_name
-
+ 
 BG_GRAY = "#29bdc1"
 BG_COLOR = "#913f92"
 TEXT_COLOR = "#EAECEE"
