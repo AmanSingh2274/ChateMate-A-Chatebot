@@ -1,4 +1,4 @@
-from tkinter import * 
+from tkinter import *
 from chat import get_response, bot_name
  
 BG_GRAY = "#29bdc1"
